@@ -1,0 +1,4 @@
+In the context of loan lending, this code has investigated the use of explainable AI (XAI) methodologies, namely SHAP and LIME. We have shown how successful these XAI techniques are in revealing information about how sophisticated machine learning models 
+make decisions by using a random forest model to predict loan approval and a loan lending dataset. The results emphasize how crucial interpretability and transparency are when it comes to AI-driven loan choices. Building confidence among stakeholders, such as 
+loan officers, borrowers, and regulatory agencies, requires financial institutions to be able to explain model predictions, especially as they depend more and more on AI to improve speed and accuracy in lending processes. In addition to making it easier to comprehend how features con- 
+tribute to predictions, the application of SHAP and LIME gives stakeholders the ability to decide how best to use the model's outputs. 
